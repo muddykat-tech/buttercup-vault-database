@@ -8464,11 +8464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amals\\Tide\\TideInternship\\buttercup-server\\ButtercupApi\\ButtercupApi.csproj",
+      "projectUniqueName": "C:\\Users\\amals\\Tide\\TideInternship\\buttercup-database\\buttercup-vault-database\\ButtercupApi.csproj",
       "projectName": "ButtercupApi",
-      "projectPath": "C:\\Users\\amals\\Tide\\TideInternship\\buttercup-server\\ButtercupApi\\ButtercupApi.csproj",
+      "projectPath": "C:\\Users\\amals\\Tide\\TideInternship\\buttercup-database\\buttercup-vault-database\\ButtercupApi.csproj",
       "packagesPath": "C:\\Users\\amals\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amals\\Tide\\TideInternship\\buttercup-server\\ButtercupApi\\obj\\",
+      "outputPath": "C:\\Users\\amals\\Tide\\TideInternship\\buttercup-database\\buttercup-vault-database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amals\\AppData\\Roaming\\NuGet\\NuGet.Config",
