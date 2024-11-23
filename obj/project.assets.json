@@ -8459,26 +8459,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\amals\\.nuget\\packages\\": {}
+    "/home/muddykat/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amals\\Tide\\TideInternship\\buttercup-database\\buttercup-vault-database\\ButtercupApi.csproj",
+      "projectUniqueName": "/home/muddykat/Documents/Github/buttercup-tide/buttercup-vault-database/ButtercupApi.csproj",
       "projectName": "ButtercupApi",
-      "projectPath": "C:\\Users\\amals\\Tide\\TideInternship\\buttercup-database\\buttercup-vault-database\\ButtercupApi.csproj",
-      "packagesPath": "C:\\Users\\amals\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amals\\Tide\\TideInternship\\buttercup-database\\buttercup-vault-database\\obj\\",
+      "projectPath": "/home/muddykat/Documents/Github/buttercup-tide/buttercup-vault-database/ButtercupApi.csproj",
+      "packagesPath": "/home/muddykat/.nuget/packages/",
+      "outputPath": "/home/muddykat/Documents/Github/buttercup-tide/buttercup-vault-database/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\amals\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/muddykat/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8549,7 +8547,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,7 +5,7 @@ public class UserData
 {
     [Key]
 	public string tideUID {get;set;} = default!;
-	public string vaultName {get; set;}
-	public string vaultData {get; set;}
+	public required string vaultName {get; set;}
+	public required string vaultData {get; set;}
 
 }

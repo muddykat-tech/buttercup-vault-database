@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\ButtercupApi.props" />
+  <Import Project="../build/ButtercupApi.props" />
 </Project>
